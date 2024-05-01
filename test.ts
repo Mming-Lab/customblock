@@ -1,7 +1,12 @@
-//% weight=100 color=#0fbc00 icon=""
+//% weight=100 color=#ff0000 icon=""
 namespace test {
 
-    //% block="自作`test.yutaru` アイコン"
-    export function icon(): void {
+    //% block="宮永 ともひさ"
+    export function name(): void {
     }
+
+    //% block="教育版マインクラフト`test.yutaru2`アンバサダー"
+    export function icon2(): void {
+    }
+
 }
