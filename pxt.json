@@ -11,8 +11,8 @@
         "README.md",
         "iconTest.jres",
         "iconTest.ts",
-        "_locales/ja/iconTest-ts-jsdoc-strings.json",
-        "_locales/ja/iconTest-ts-strings.json"
+        "_locales/ja/customblock-strings.json",
+        "_locales/ja/customblock-jsdoc-strings.json"
     ],
     "testFiles": [],
     "targetVersions": {
@@ -22,5 +22,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
