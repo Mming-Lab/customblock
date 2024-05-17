@@ -3,10 +3,11 @@
     "【大事なこと】": "pxt.jsonのnameとファイル名をそろえるのがポイント",
     "iconTest.testJresNS|block": "Ja-iconTest.jersの`testJresNS.eduIcon`を表示カスタムブロック",
     "blocks.place|block": "😱10:%block=minecraftBlock| を%pos=minecraftCreatePosition| に置(お)く",
-    "SixDirection.Forward": "10:前(まえ)",
-    "SixDirection.Back": "20:後(うし)ろ",
-    "SixDirection.Left": "30:左(ひだり)",
-    "SixDirection.Right": "40:右(みぎ)",
-    "SixDirection.Up": "50:上(うえ)",
-    "SixDirection.Down": "60:下(した)"
+    "SixDirection.Forward|block": "10:前(まえ)",
+    "SixDirection.Back|block": "20:後(うし)ろ",
+    "SixDirection.Left|block": "30:左(ひだり)",
+    "SixDirection.Right|block": "40:右(みぎ)",
+    "SixDirection.Up|block": "50:上(うえ)",
+    "SixDirection.Down|block": "60:下(した)",
+    "agent.move|block": "20:エージェントを %direction|に %blocks| ブロック移動(いどう)させる"
 }
